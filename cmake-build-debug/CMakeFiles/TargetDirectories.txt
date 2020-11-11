@@ -1,0 +1,4 @@
+/home/q7frkz/Dev/Qt/Tuto2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/q7frkz/Dev/Qt/Tuto2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/q7frkz/Dev/Qt/Tuto2/cmake-build-debug/CMakeFiles/Tuto2.dir
+/home/q7frkz/Dev/Qt/Tuto2/cmake-build-debug/CMakeFiles/Tuto2_autogen.dir
